@@ -10,6 +10,8 @@ Inspired by my lifelong struggle finding a barber that doesn't misgender me, Tra
 - **User Registration/Role-based Authorization**
   - Users can create anonymous accounts within a secure authentication system
   - Possible user roles/ administrator roles
+  - Account/data security is a priority
+  - User agreement that covers anonymity and HIPAA related information
 - **Business Index & Anonymous Reviews**
   - Registered users may add businesses and reivews to the database
   - Business listings include details like name, location, category, description, etc.
