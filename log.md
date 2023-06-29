@@ -16,4 +16,4 @@
 * 7:30 pm - finished up research for the day
 
 ### Wednesday 6/28/23
-* 8:30 pm - start drafting diagram of static website
+* 8:30 pm - 9:30 - start drafting diagram of static website
