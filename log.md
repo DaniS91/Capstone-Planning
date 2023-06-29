@@ -6,7 +6,7 @@
 * 11:30 am - read a bit of documentation for my narrowed-down list of content moderation api's
 * 12:30 pm - finished up research for the day
 
-### Thursday 6/15
+### Thursday 6/15/23
 * 5:30 pm - draft up an initial proposal list, organize priorities
   - I tried to be realistic about an mvp, but this may change as I get more familiar with the tools, all of which I am pretty much completely unfamiliar with right now
 * 6:00 pm - watched some videos about Firebase, specifically about role-based authorization
@@ -14,3 +14,6 @@
 * 6:30 pm - Read some documentation about Azure
   - Azure uses OpenAI content filtering
 * 7:30 pm - finished up research for the day
+
+### Wednesday 6/28/23
+* 8:30 pm - start drafting diagram of static website
