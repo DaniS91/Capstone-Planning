@@ -12,6 +12,7 @@
 * Sort businesses by properties
 
 ### Stretch Goals
+* Employee reviews of the business as well...
 * Accesible and mobile-friendly styling with semantic HTML and MUI
 * Automated content moderation
 * User content reporting system

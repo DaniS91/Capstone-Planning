@@ -29,6 +29,7 @@ Inspired by my lifelong struggle finding a barber that doesn't misgender me, Tra
 
 ### Additional Features
 (Something that I am super intereseted in is automated content filtering/moderating, so I may spend some extra time researching this or trying to implement it in some form)
+- **Employee/Employer Ratings and Reviews**
 - **Content Moderation System**
   - Ability to monitor and review or filter user submissions for inapropriate or dangerous content
   - Ability to automate a content filter, possibly using Azure/Firebase or a content moderation api
