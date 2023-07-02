@@ -21,4 +21,13 @@
 ### Saturday 7/1/23
 * 8:00 pm - 8:45 pm - working on README
 * 8:45 pm - 9:30 pm - watch quick video about material UI
-* 9:30 pm - 10:15 pm - planned out some details of the business/review info, add form details to app-diagram
+* 9:30 pm - 10:15 pm - planned out some details of the business/review info, add form details to app-diagram 
+* 10:15 pm - 11:00 pm - setting up project with create-reac-app and repo, a few basic components added
+  - link to the initial setup repo: [HERE][Project repo]
+
+
+
+
+
+
+  [Project repo]: https://github.com/DaniS91/Capstone-Project

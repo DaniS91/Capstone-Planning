@@ -2,6 +2,9 @@
 
 ### By Dani Steely
 
+### [Link to repo][repo] (this will all be integrated soon, sorry)
+<hr>
+
 #### [Epicodus][Epicodus] capstone project completed for C# and React Part-Time [coursework][coursework]. TransGuide will be a mobile-friendly website that allows a user to make an anonymous account and create reviews of businesses or medical establishments in terms of their trans-inclusivity or general trans-friendliness. All users should be able to view a list of businesses and reviews, and should be able to sort/filter/group/search businesses and reviews. Users with an account should be able to add businesses to the index and create reviews for any business.
 
 ### Feature Goals:
@@ -43,3 +46,4 @@ Copyright (c) _7/1/23_ _Dani Steely_
 
 [Epicodus]: https://www.epicodus.com/
 [coursework]: https://www.learnhowtoprogram.com/tracks/c-and-react-part-time
+[repo]: https://github.com/DaniS91/Capstone-Project
